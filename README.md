@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya51020&label=Profile%20views&color=0e75b6&style=flat" alt="aditya51020" /> </p>
 
-- 🔭 I’m currently working on **infoDekho**
+- 🔭 I’m currently working on **infoDekho(collage project)**
 
 - 🌱 I’m currently learning **react.js and dsa**
 
