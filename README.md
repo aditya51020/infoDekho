@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **react.js and dsa**
 
-<!-- - 👨‍💻 All of my projects are available at [215uca040@gbu.ac.in](215uca040@gbu.ac.in) -->
+- 👨‍💻 All of my projects are available at [215uca040@gbu.ac.in](215uca040@gbu.ac.in) 
 
 - 💬 Ask me about **dsa, python, react.js**
 
-- 📫 How to reach me **adityarai**
+- 📫 How to reach me **215uca040@gbu.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
